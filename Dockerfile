@@ -9,6 +9,3 @@ ENV WEBHOOK_URL=https://n8n-gxsx.onrender.com
 
 # 3. Port expose karna
 EXPOSE 5678
-
-# 4. n8n start command
-CMD ["n8n"]
